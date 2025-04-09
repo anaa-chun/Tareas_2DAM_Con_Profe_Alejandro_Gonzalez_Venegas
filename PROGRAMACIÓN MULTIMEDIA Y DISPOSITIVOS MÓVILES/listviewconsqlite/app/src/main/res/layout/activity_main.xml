@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--TITULO ENCABEZADO no se muestra porque lo he comentado, en el anterior ListView está descomentado-->
+    <!--
+    <TextView
+        android:id="@+id/textoEncabezado"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:text="LENGUAJES DE PROGRAMACION"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:background="#C1DBF0"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+    -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/btnInsertar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="16dp"
+            android:text="Insertar"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/btnBorrar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="Borrar"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/btnListar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="16dp"
+            android:text="Listar"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lista"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#A3BADA"
+        android:layout_weight="5" />
+
+    <TextView
+        android:id="@+id/texto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="MARCAR UNA OPCIÓN"
+        android:textAlignment="center"
+        android:background="#DCE1E5"
+        android:textColor="#F40B0B"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+</LinearLayout>
