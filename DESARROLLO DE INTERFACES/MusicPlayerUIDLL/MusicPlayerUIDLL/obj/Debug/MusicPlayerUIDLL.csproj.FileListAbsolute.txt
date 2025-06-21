@@ -1,0 +1,12 @@
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\bin\Debug\MusicPlayerUIDLL.exe.config
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\bin\Debug\MusicPlayerUIDLL.exe
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\bin\Debug\MusicPlayerUIDLL.pdb
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.csproj.AssemblyReference.cache
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.Form1.resources
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.Properties.Resources.resources
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.csproj.GenerateResource.cache
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.csproj.CoreCompileInputs.cache
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPla.A6F4AAC6.Up2Date
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.exe
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\obj\Debug\MusicPlayerUIDLL.pdb
+C:\Users\anach\VS2022Tareas\MusicPlayerUIDLL\MusicPlayerUIDLL\bin\Debug\MusicPlayerDLL.pdb
